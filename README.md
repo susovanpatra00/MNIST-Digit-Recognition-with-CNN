@@ -9,5 +9,5 @@ This repository contains the code for a digit recognition project using a Convol
 
 ## ⚙️ Setup and Dependencies
 1. Install the required dependencies using:
-   ```
+   ```bash
    pip install numpy pandas seaborn matplotlib tensorflow
