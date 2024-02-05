@@ -18,5 +18,12 @@ This repository contains the code for a digit recognition project using a Convol
    pip install numpy pandas seaborn matplotlib tensorflow
 
 ## Dataset Link 
-```
+
 <http://yann.lecun.com/exdb/mnist/>
+
+## 📊 Results
+- Achieved an accuracy of 98.9% on the validation set.
+- The model is capable of recognizing hand-written digits with high precision.
+
+## 🙏 Acknowledgments
+- I used the MNIST dataset for digit recognition.
